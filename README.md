@@ -11,5 +11,6 @@ Steps:
 - Install Required Libraries: We'll use requests for API calls, and pandas and openpyxl for handling Excel files.
 
 Usage:
+- Run 'pip install requests pandas openpyxl' to install dependencies
 - Replace the HA_URL and ACCESS_TOKEN with your Home Assistant details.
 - Run the script, and it will generate an Excel file home_assistant_devices_entities.xlsx with the sorted device and entity data.
